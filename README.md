@@ -1,8 +1,8 @@
-📚 Projeto Spring Boot - API REST com Java 21
+📚 **Projeto Spring Boot - API REST com Java 21**
 
 Este projeto foi criado utilizando o Spring Initializr com Java 21 e Maven, tendo como objetivo servir como base para construção de uma API REST simples utilizando boas práticas do ecossistema Spring.
 
-🚀 Tecnologias Utilizadas
+🚀 **Tecnologias Utilizadas**
 
 Java 21
 
@@ -16,11 +16,11 @@ JPA (Hibernate)
 
 Postman (para testes da API)
 
-⚙️ Dependências Utilizadas
+⚙️ **Dependências Utilizadas**
 
 O projeto foi gerado no Spring Initializr com as seguintes dependências:
 
-🌐 Spring Web
+🌐 **Spring Web**
 
 Dependência responsável por permitir a criação de APIs REST.
 
@@ -36,7 +36,7 @@ Utiliza o servidor embarcado Tomcat.
 
 Trabalha com requisições HTTP (GET, POST, PUT, DELETE).
 
-🧩 Lombok
+🧩 **Lombok**
 
 Biblioteca que reduz código repetitivo (boilerplate).
 
@@ -54,7 +54,7 @@ Deixa as entidades mais limpas e organizadas.
 
 ⚠️ É necessário instalar o plugin do Lombok na IDE.
 
-🗄️ Spring Data JPA
+🗄️ **Spring Data JPA**
 
 Facilita o acesso e manipulação de dados no banco.
 
@@ -70,7 +70,7 @@ Permite criar consultas automaticamente apenas pelo nome do método.
 
 Utiliza o Hibernate como implementação padrão de ORM.
 
-💾 H2 Database
+💾 **H2 Database**
 
 Banco de dados em memória, ideal para testes e desenvolvimento.
 
@@ -79,7 +79,7 @@ Leve e rápido.
 Não precisa de instalação.
 
 
-🧪 Testando a API com o Postman
+🧪 **Testando a API com o Postman**
 
 O Postman é uma ferramenta muito utilizada para testar APIs REST.
 
@@ -110,7 +110,7 @@ Se for POST ou PUT, enviar o JSON no Body.
 Clicar em Send para visualizar a resposta.
 
 
-🎯 Objetivo do Projeto
+🎯 **Objetivo do Projeto**
 
 Este projeto serve como base para:
 
@@ -124,7 +124,7 @@ Realizar testes utilizando o Postman
 
 Praticar desenvolvimento backend com Java 21
 
-📌 Informações do Projeto (Spring Initializr)
+📌 **Informações do Projeto (Spring Initializr)**
 
 Project: Maven
 
